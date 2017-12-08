@@ -97,22 +97,12 @@
 			children = (
 				9D46282E1D34719100346A5B /* RNPAudioVideo.h */,
 				9D46282F1D34719100346A5B /* RNPAudioVideo.m */,
-				9D4628301D34719100346A5B /* RNPBackgroundRefresh.h */,
-				9D4628311D34719100346A5B /* RNPBackgroundRefresh.m */,
-				9D4628321D34719100346A5B /* RNPBluetooth.h */,
-				9D4628331D34719100346A5B /* RNPBluetooth.m */,
-				9D4628341D34719100346A5B /* RNPContacts.h */,
-				9D4628351D34719100346A5B /* RNPContacts.m */,
-				9D4628361D34719100346A5B /* RNPEvent.h */,
-				9D4628371D34719100346A5B /* RNPEvent.m */,
 				9D4628381D34719100346A5B /* RNPLocation.h */,
 				9D4628391D34719100346A5B /* RNPLocation.m */,
 				9D46283A1D34719100346A5B /* RNPNotification.h */,
 				9D46283B1D34719100346A5B /* RNPNotification.m */,
 				9D46283C1D34719100346A5B /* RNPPhoto.h */,
 				9D46283D1D34719100346A5B /* RNPPhoto.m */,
-				281CD5921E26B266003A72B2 /* RNPSpeechRecognition.h */,
-				281CD5901E26B0C7003A72B2 /* RNPSpeechRecognition.m */,
 			);
 			name = permissions;
 			sourceTree = "<group>";
